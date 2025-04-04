@@ -8,6 +8,10 @@
     <loc>https://example.org/</loc>
     <lastmod>2025-04-03T11:07:17+08:00</lastmod>
   </url><url>
+    <loc>https://example.org/contact/</loc>
+  </url><url>
+    <loc>https://example.org/teaching/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
