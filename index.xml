@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianyang Fu</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tianyang Fu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Apr 2025 11:07:17 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My New Page</title>
-      <link>https://example.org/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Thu, 03 Apr 2025 11:07:17 +0800</pubDate>
-      <guid>https://example.org/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>&lt;p&gt;My research interests include the political economy of communication &amp;amp; media, critical communication research, digital labor &amp;amp; gig worker, platform economy, algorithmic management, human-computer/AI interaction, algorithmic fairness, accountability, transparency, and ethics (FATE), mixed methods research.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;🎉 I received the 2023 Dallas Smythe Award at IAMCR.&lt;/p&gt;&#xA;&lt;p&gt;🎉 I received the 2025 TIPI Graduate Student Research Fellowship for the project titled &amp;ldquo;By the People but Not For the People: Invisible Labor of Data Annotation Behind AI Development&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:tianyangfu@utexas.edu&#34;&gt;tianyangfu@utexas.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;tianyangfu [at] utexas [dot] edu&lt;/p&gt;&#xA;&lt;p&gt;Many thanks for your interest 🖤&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;The University of Texas at Austin&lt;/strong&gt; (UT Austin)                                       &lt;br&gt;&#xA;Ph.D. in Communication Studies, Organizational Communication &amp;amp; Technology                                   &lt;br&gt;&#xA;Graduate Portfolio Program in Ethical AI                                       &lt;br&gt;&#xA;&lt;strong&gt;The University of Chicago&lt;/strong&gt;                                       &lt;br&gt;&#xA;M.A. in Social Sciences, concentration on Sociology                                       &lt;br&gt;&#xA;Thesis Advisor: Dr. Andreas Glaeser                                        &lt;br&gt;&#xA;&lt;strong&gt;Beijing Foreign Studies University&lt;/strong&gt; (BFSU)                                       &lt;br&gt;&#xA;B.A. in Journalism, concentration on Intercultural Communication                                       &lt;br&gt;&#xA;Minor: International Economics &amp;amp; Trade                                        &lt;br&gt;&#xA;Thesis Advisor: Dr. Fei Jiang (University of Chinese Academy of Social Sciences)                            &lt;br&gt;&#xA;&lt;strong&gt;The University of Edinburgh&lt;/strong&gt;                                        &lt;br&gt;&#xA;Study Abroad&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/teaching/</guid>
-      <description>&lt;p&gt;Aside from research, I enjoy teaching and tutoring students with subjects across disciplines as a Teaching Assistant or Assistant Instructor. Selected teaching experiences include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Exploring the World’s Religions (Prof. Matthew J. Pereira)&lt;/li&gt;&#xA;&lt;li&gt;Gender, Sexuality &amp;amp; Society (Prof. Jordan Shapiro)&lt;/li&gt;&#xA;&lt;li&gt;Introduction to Philosophy (Prof. Tiffany Traylor)&lt;/li&gt;&#xA;&lt;li&gt;Introduction to Sociology (Tbc.)&lt;/li&gt;&#xA;&lt;li&gt;Media and Advertisement (Prof. Judith Ainsworth)&lt;/li&gt;&#xA;&lt;li&gt;Time Matters (Prof. Dawna Ballard)&lt;/li&gt;&#xA;&lt;li&gt;The Emergence of the Modern World (Prof. Heidi Morrison)&lt;/li&gt;&#xA;&lt;li&gt;World History (Tbc.)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;p&gt;Aside from research, I enjoy teaching and tutoring students with subjects across disciplines as a Teaching Assistant or Assistant Instructor. Selected teaching experiences include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Exploring the World’s Religions (Prof. Matthew J. Pereira)&lt;/li&gt;&#xA;&lt;li&gt;Gender, Sexuality &amp;amp; Society (Prof. Jordan Shapiro)&lt;/li&gt;&#xA;&lt;li&gt;Introduction to Philosophy (Prof. Tiffany Traylor)&lt;/li&gt;&#xA;&lt;li&gt;Introduction to Sociology (Prof. Jialin Li)&lt;/li&gt;&#xA;&lt;li&gt;Media and Advertisement (Prof. Judith Ainsworth)&lt;/li&gt;&#xA;&lt;li&gt;Time Matters (Prof. Dawna Ballard)&lt;/li&gt;&#xA;&lt;li&gt;The Emergence of the Modern World (Prof. Heidi Morrison)&lt;/li&gt;&#xA;&lt;li&gt;World History (Prof. Heidi Morrison)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
